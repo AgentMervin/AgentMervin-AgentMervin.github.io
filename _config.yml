@@ -1,7 +1,7 @@
 # Site settings
 title: Yan Mo
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://AgentMervin.github.io'
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
@@ -13,7 +13,7 @@ author:
   email: info@thomas-zuehlke.de
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
+  github_username:  AgentMervin
   linkedin_username:  thomas-zühlke-889182165
   meetup_name: Azure-Meetup-Rostock-MV
 

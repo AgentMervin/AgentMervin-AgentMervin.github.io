@@ -24,3 +24,9 @@
   repo: FaceApiWPF
   img: images/weenix.png
   desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream.
+
+- name: Relaxa
+  gh_user: ArvatoSystems
+  repo: FaceApiWPF
+  img: images/Relaxa.png
+  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream.

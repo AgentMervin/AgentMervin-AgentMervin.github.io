@@ -5,18 +5,20 @@
   gh_user: AgentMervin
   repo: video_server
   img: images/streaming-websites.png
-  desc: A full-stack streaming website using Golang as Backend. Support streaming control
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
-  repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+  desc: The video streaming website uses Golang as Backend. It utilizes RESTful API design on user, resource, comment & video owner control. To ensure the reliability of website, rate limit control and asynchronous delete are all implemented in the backend.
+
+
+- name: TransWarp Cloud Platform Experience
+  gh_user: WarpCloud
+  repo: walm
+  img: images/transwarp.png
+  desc: Walm is a micro service, based on Helm, that supports both Rest Api and Cli to manage the lifecycle of pod based applications in kubernetes cluster including those with dependencies. Walm dynamically manages the dependencies of an application. An application can depend on the applications already existed, and the configurations of applications depending on would be injected automatically. Besides, once the configurations of applications depending on changes, the configurations would be injected again in real-time. Walm supports more advanced Chart that use Jsonnet as template engine to render kubernetes objects. It is more suitable to orchestrate and deploy complex applications, such as Big Data applications.
 
 - name: Operating System
   gh_user: ArvatoSystems
   repo: FaceApiWPF
-  img: images/weenix.png
-  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream.
+  img: images/weenix.jpeg
+  desc: •	Implemented processes and threads control, mutex implementation, and schedule in Kernel.
 
 - name: Relaxa
   gh_user: rndMemex

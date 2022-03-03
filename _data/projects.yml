@@ -12,13 +12,13 @@
   gh_user: WarpCloud
   repo: walm
   img: images/transwarp.png
-  desc: Walm is a micro service, based on Helm, that supports both Rest Api and Cli to manage the lifecycle of pod based applications in kubernetes cluster including those with dependencies. Walm dynamically manages the dependencies of an application. An application can depend on the applications already existed, and the configurations of applications depending on would be injected automatically. Besides, once the configurations of applications depending on changes, the configurations would be injected again in real-time. 
+  desc: Walm is a micro service, based on Helm, that supports both Rest Api and Cli to manage the lifecycle of pod based applications in kubernetes cluster including those with dependencies. Walm dynamically manages the dependencies of an application. An application can depend on the applications already existed, and the configurations of applications depending on would be injected automatically. Besides, once the configurations of applications depending on changes, the configurations would be injected again in real-time.
 
 - name: Operating System
   gh_user: AgentMervin
   repo: operating-system
   img: images/weenix.jpeg
-  desc: weenix is a small operating system. This project has mainly three assignmemts. Assignment 1: Provide the basic building blocks for the Weenix operating system: threads, processes, and syn- chronization primitives. Assignment 2: VFS provides a common interface between the operating system kernel and the various file systems. Assignment 3: Write the code for managing a process’ virtual address space. Implement the page fault handler triggered by a processor interrupt. Map the virtual address to its corresponding page of memory. System call & accessing user memory.
+  desc: weenix is a small operating system. This project has mainly three assignmemts. Assignment 1 provides the basic building blocks for the Weenix operating system, threads, processes, and syn- chronization primitives. Assignment 2, VFS provides a common interface between the operating system kernel and the various file systems. Assignment 3, Write the code for managing a process virtual address space. Implement the page fault handler triggered by a processor interrupt. Map the virtual address to its corresponding page of memory. System call & accessing user memory.
 
 - name: Relaxa
   gh_user: rndMemex

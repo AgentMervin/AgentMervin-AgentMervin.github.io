@@ -12,7 +12,7 @@
   gh_user: WarpCloud
   repo: walm
   img: images/transwarp.png
-  desc: Walm is a micro service, based on Helm, that supports both Rest Api and Cli to manage the lifecycle of pod based applications in kubernetes cluster including those with dependencies. Walm dynamically manages the dependencies of an application. An application can depend on the applications already existed, and the configurations of applications depending on would be injected automatically. Besides, once the configurations of applications depending on changes, the configurations would be injected again in real-time. Walm supports more advanced Chart that use Jsonnet as template engine to render kubernetes objects. It is more suitable to orchestrate and deploy complex applications, such as Big Data applications.
+  desc: Walm is a micro service, based on Helm, that supports both Rest Api and Cli to manage the lifecycle of pod based applications in kubernetes cluster including those with dependencies. Walm dynamically manages the dependencies of an application. An application can depend on the applications already existed, and the configurations of applications depending on would be injected automatically. Besides, once the configurations of applications depending on changes, the configurations would be injected again in real-time. 
 
 - name: Operating System
   gh_user: AgentMervin
